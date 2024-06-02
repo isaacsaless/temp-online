@@ -1,0 +1,36 @@
+.name-input{
+    height: 45px;
+    width: 60%;
+    font-size: 15pt;
+    border-radius: 10px;
+    border-color: rgb(146, 146, 146);
+    border-width: 5px;
+    border: 3px solid rgb(42, 42, 42);
+    box-shadow: 0px 4px 0px rgb(42, 42, 42);
+    outline: none;
+    box-sizing: border-box;
+    text-align: center;
+    transition: all ease-in-out 0.3s;
+}
+
+.search-form{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.search-icon{
+    padding-right: 10px;
+}
+
+.btn-search{
+    height: 45px;
+    background-color: rgb(43, 237, 255);
+    font-size: 14pt;
+    border-radius: 15px;
+    width: 38%;
+    border-style: none;
+    cursor: pointer;
+    border: 3px solid rgb(42, 42, 42);
+    box-shadow: 0px 4px 0px rgb(42, 42, 42);
+}

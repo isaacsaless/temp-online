@@ -1,0 +1,26 @@
+html, body{
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Inter", sans-serif;
+}
+
+.container{
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  color: white;
+  word-break: break-word;
+}
+
+.itens{
+  width: 350px;
+}
+
+@media only screen and (min-width:412px){
+  .city-name{
+      font-size: 25pt;
+  }
+}

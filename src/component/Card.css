@@ -1,0 +1,58 @@
+.card{
+    background-color: #f5af4a;
+    width: 100%;
+    border-radius: 20px;
+    margin-top: 20px;
+}
+
+.city-name{
+    font-size: 25pt;
+    margin: 0;
+    padding: 15px 20px 20px 20px;
+}
+
+.weather-icon-type{
+    width: 100px;
+}
+
+.temperature{
+    font-weight: normal;
+    font-size: 50pt;
+    margin: 10px 0px 20px 0px;
+}
+
+.bottom-infos{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.humidity-infos,
+.wind-infos{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+.left-infos{
+    padding-left: 10px;
+}
+
+.right-infos{
+    padding-right: 10px;
+}
+
+.text-info{
+    margin: 0;
+    font-size: 20pt;
+}
+
+.weather-icon{
+    width: 48px;
+    padding-right: 10px;
+}
+
+.info-about{
+    margin: 15px 0px 15px 0px;
+}
