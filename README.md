@@ -9,7 +9,7 @@
         &middot;
         <a target="_blank" href="https://temp-online.vercel.app/">Site</a>
         &middot;
-        <a target="_blank" href="https://github.com/isaacsaless/temp-online/blob/main/README.md">English README</a>
+        <a target="_blank" href="https://github.com/isaacsaless/temp-online/blob/main/en-README.md">English README</a>
         &middot;
     </p>
 </div>
